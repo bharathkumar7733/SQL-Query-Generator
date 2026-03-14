@@ -16,7 +16,7 @@ This project demonstrates the integration of **Natural Language Processing conce
 * Execute SQL queries on a **SQLite database**
 * Display query results in a **web interface**
 * Support filtering, sorting, and analytical queries
-* Simple and clean **Flask-based web application**
+* Simple and clean **Flask-based web application
 * Beginner-friendly **rule-based NLP system**
 
 ---
