@@ -21,4 +21,7 @@ def home():
 
     return render_template("index.html", results=results, sql=sql)
 
-app.run(debug=True)
+import os
+
+if __name__ == "__main__":
+    app.run(debug=True)
