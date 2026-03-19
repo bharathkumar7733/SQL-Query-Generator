@@ -1,5 +1,5 @@
 # Natural Language to SQL Query Generator
-
+https://sql-query-generator2.vercel.app/
 ## Project Overview
 
 The **Natural Language to SQL Query Generator** is a Python-based web application that allows users to query a database using **plain English instead of writing SQL queries manually**.
